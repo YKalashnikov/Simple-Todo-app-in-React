@@ -1,0 +1,17 @@
+.container {
+  text-align: center;
+  margin:56px;
+  display:flex;
+  flex-direction:column;
+}
+span{
+  margin-left:22px;
+  border:1px solid;
+  border-radius:12px;
+  padding:12px;
+}
+button{
+  height:22px;
+  margin-top:22px;
+}
+
